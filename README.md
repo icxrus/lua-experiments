@@ -1,3 +1,4 @@
 # Practicing with lua code
 
-init.lua, Cyberpunk 2077 mod available also here: https://www.nexusmods.com/cyberpunk2077/mods/21011
+## init.lua
+LUA based script that uses Cyber Engine Tweaks and Codeware utilities to interface with the gameplay systems and change required parameters (kills) for a quest in Cyberpunk 2077.
